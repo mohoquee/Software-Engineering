@@ -1,0 +1,128 @@
+[
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-03 14:26:19"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Raka",
+        "customer_phone": "",
+        "timestamp": "2024-04-03 14:26:27"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "",
+        "customer_phone": "",
+        "timestamp": "2024-04-03 14:27:05"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "",
+        "customer_phone": "",
+        "timestamp": "2024-04-03 14:27:10"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "",
+        "customer_phone": "",
+        "timestamp": "2024-04-03 14:27:12"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-03 14:32:04"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-03 14:32:07"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-03 14:32:09"
+    },
+    {
+        "pizza": "Pepperoni",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-03 14:41:20"
+    },
+    {
+        "pizza": "Pepperoni",
+        "size": "Small",
+        "crust": "Thin Crust",
+        "quantity": 1,
+        "customer_name": "Ali",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-07 16:14:58"
+    },
+    {
+        "pizza": "Hawaiian",
+        "size": "Small",
+        "crust": "Thin Crust",
+        "quantity": 1,
+        "customer_name": "ty",
+        "customer_phone": "22222",
+        "timestamp": "2024-04-07 16:20:12"
+    },
+    {
+        "pizza": "Pepperoni",
+        "size": "Large",
+        "crust": "Thick Crust",
+        "quantity": 1,
+        "customer_name": "Talha",
+        "customer_phone": "2489818859",
+        "timestamp": "2024-04-07 16:26:02"
+    },
+    {
+        "pizza": "Vegetarian",
+        "size": "Medium",
+        "crust": "Regular Crust",
+        "quantity": 1,
+        "customer_name": "Ryan",
+        "customer_phone": "Jenkins",
+        "timestamp": "2024-04-07 17:02:20"
+    },
+    {
+        "pizza": "Margherita",
+        "size": "Small",
+        "crust": "Thin Crust",
+        "quantity": 1,
+        "customer_name": "Jacob Phillips",
+        "customer_phone": "208-552-1314",
+        "timestamp": "2024-04-09 05:55:03"
+    },
+    {
+        "pizza": "Margherita",
+        "size": "Small",
+        "crust": "Thin Crust",
+        "quantity": 1,
+        "customer_name": "Charlie Maze",
+        "customer_phone": "208-553-1105",
+        "timestamp": "2024-04-09 14:12:28"
+    },
+    {
+        "pizza": "Margherita",
+        "size": "Small",
+        "crust": "Thin Crust",
+        "quantity": 1,
+        "customer_name": "Ryan Jenkins",
+        "customer_phone": "998-552-4325",
+        "timestamp": "2024-04-09 14:14:28"
+    }
+]
